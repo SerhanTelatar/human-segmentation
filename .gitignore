@@ -1,2 +1,6 @@
 yolov8n-seg.pt
 yolov8x-seg.pt
+venv
+data
+/__pycache__
+/models/saved_model
