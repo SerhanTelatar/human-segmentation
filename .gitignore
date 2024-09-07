@@ -4,8 +4,4 @@ venv
 data
 /__pycache__
 /models/saved_model
-/notebooks/nis.jpg
-/notebooks/nis2.jpg
-/notebooks/nis3.jpg
-/notebooks/ser.jpg
-/notebooks/ser2.jpg
+test_pic
