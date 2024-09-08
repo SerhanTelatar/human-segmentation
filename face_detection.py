@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 import os
 
-model = tf.keras.models.load_model("./models/saved_model/model.h5")
+model = tf.keras.models.load_model("./models/saved_model/model.keras")
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
